@@ -1,3 +1,4 @@
+Note: This fork has been merged back into https://github.com/tambetm/simple_dqn and will soon be deleted.
 # Simple DQN
 
 Deep Q-learning agent for replicating DeepMind's results in paper ["Human-level control through deep reinforcement learning"](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html). It is designed to be simple, fast and easy to extend. In particular:
